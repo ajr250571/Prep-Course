@@ -7,11 +7,18 @@ img {
 }
 
 #thirdDiv {
+  margin: 0 auto;
   width: 500px;
-  height: 600px;
+  height: auto;
   background-color: antiquewhite;
   padding: 50px;
   border: 2px black solid;
+  overflow: hidden;
+}
+.divClass {
+  margin: auto;
+  width: 100%;
+  text-align: center;
 }
 
 #spanId {

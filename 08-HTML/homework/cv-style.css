@@ -1,0 +1,36 @@
+.seccion {
+  background-color: antiquewhite;
+
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  width: 70%;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+h1 {
+  color: blue;
+}
+h3 {
+  color: chocolate;
+  margin: 0px;
+  padding-top: 0px;
+  padding-bottom: 8px;
+}
+p {
+  font-family: "Courier New", Courier, monospace;
+  margin: 2px;
+  line-height: 1.3rem;
+}
+#titulo {
+  font-size: 2rem;
+  margin: 0px;
+}
+li {
+  margin-bottom: 2px;
+}
+img {
+  width: 200px;
+}
